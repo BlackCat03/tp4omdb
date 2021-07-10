@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OMDb</string>
+    <string name="hint">Movie/serie</string>
+</resources>
