@@ -1,0 +1,9 @@
+com/blackcat03/movieFinder/BuildConfig.java
+ com.blackcat03.movieFinder.BuildConfig
+com/blackcat03/movieFinder/db/MovieDatabase_Impl.java
+ com.blackcat03.movieFinder.db.MovieDatabase_Impl
+ com.blackcat03.movieFinder.db.MovieDatabase_Impl$1
+com/blackcat03/movieFinder/db/MovieDAO_Impl.java
+ com.blackcat03.movieFinder.db.MovieDAO_Impl
+ com.blackcat03.movieFinder.db.MovieDAO_Impl$1
+ com.blackcat03.movieFinder.db.MovieDAO_Impl$2
